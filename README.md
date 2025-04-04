@@ -44,9 +44,8 @@ This repository contains **three** separate web projects:
 ```plaintext
 /WEB-TECH
 │── /McDonalds
-│   │── burgir.css
-│   │── burgir.png
-│   │── index.html
+│   │── burger.html
+│   │── burger.css
 │  
 │── /Forms  
 │   │── to change tomr.html  

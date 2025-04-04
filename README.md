@@ -45,7 +45,7 @@ This repository contains **three** separate web projects:
 /WEB-TECH
 │── /McDonalds
 │   │── burger.html
-│   │── burger.css
+│   │── burgir.css
 │  
 │── /Forms  
 │   │── index.html  

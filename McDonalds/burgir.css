@@ -46,6 +46,9 @@ body {
     display: flex;
     min-height: 100vh;
 }
+.abc{
+    padding: 0px;
+}
 
 .left-section {
 
